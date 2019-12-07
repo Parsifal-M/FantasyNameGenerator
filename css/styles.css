@@ -1,0 +1,42 @@
+/*Link Hover Text*/
+
+a:hover { 
+    background-color: grey; 
+}
+
+.wordwrap {  
+    white-space: pre-wrap;      /* Webkit */    
+    white-space: -moz-pre-wrap; /* Firefox */     
+    white-space: -pre-wrap;     /* Opera <7 */    
+    white-space: -o-pre-wrap;   /* Opera 7 */     
+    word-wrap: break-word;      /* IE */ 
+ }
+
+ #datalog {
+    padding-top: 15px;
+    text-align: center;
+ }
+
+ #lastdata {
+     text-align: center;
+ }
+
+ #uAre {
+     padding-top: 20px;
+     text-align: center;
+     font-family: 'Didact Gothic', sans-serif;
+ }
+
+ #uWere {
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+#genderRadio1label {
+    padding-right: 20px;
+    color: white;
+}
+
+#genderRadio2label {
+    color: white;
+}
