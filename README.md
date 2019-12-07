@@ -1,0 +1,2 @@
+# FantasyNameGenerator
+Fantasy Name Generator
