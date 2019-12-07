@@ -4,6 +4,10 @@ a:hover {
     background-color: grey; 
 }
 
+body {
+    background: #666666;
+}
+
 .wordwrap {  
     white-space: pre-wrap;      /* Webkit */    
     white-space: -moz-pre-wrap; /* Firefox */     
@@ -25,11 +29,13 @@ a:hover {
      padding-top: 20px;
      text-align: center;
      font-family: 'Didact Gothic', sans-serif;
+     color: white;
  }
 
  #uWere {
     text-align: center;
     font-family: 'Didact Gothic', sans-serif;
+    color: white;
 }
 
 #genderRadio1label {
@@ -38,5 +44,13 @@ a:hover {
 }
 
 #genderRadio2label {
+    color: white;
+}
+
+#datalog {
+    color: white;
+}
+
+#lastdata {
     color: white;
 }
